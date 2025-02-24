@@ -1,0 +1,87 @@
+h1 {
+  color: brown;
+}
+.relative {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  border: 3px solid blue;
+  margin-left: 350px;
+}
+
+.absolute1 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  top: 0px;
+}
+.absolute2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+  border-radius: 50%;
+  top: 200px;
+}
+.absolute3 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  bottom: 0px;
+}
+.absolute4 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+  border-radius: 50%;
+  right: 200px;
+}
+
+.absolute9 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  color: red;
+  bottom: 0px;
+  left: 220px;
+  top: 230px;
+}
+.absolute5 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+  border-radius: 50%;
+  bottom: 0px;
+  left: 200px;
+}
+
+.absolute6 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  right: 0px;
+}
+
+.absolute7 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid green;
+  border-radius: 50%;
+  top: 200px;
+  right: 0px;
+}
+
+.absolute8 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid red;
+  bottom: 0px;
+  right: 0px;
+}
